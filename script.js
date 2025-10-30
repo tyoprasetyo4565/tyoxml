@@ -1,2 +1,4 @@
 cost tombolSapa = document.getElementByld('sapaButton)
-                                          tombolSapa.addEventListener
+                                          tombolSapa.addEventListener('click', function(){
+                                            alert(Halo! Terima kasih sudah berkunjung!');
+                                          });
