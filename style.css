@@ -1,13 +1,24 @@
 body {
-    background-color: #6a5acd; /* warna unggu */
-    font-family: Arial, sans-serif; /* Cihuyy */
-    color: #ff0000; /* Warna teks utama (Merah) */
+  background-color: #0000ff; /* Warna biru cerah */
+font-family: Arial, sans-serif; /* jenishuruf yang bersih dan mudah dibaca */
+color: #ff0000; /* warna teks utama (Merah Cerah) */
 }
 
 .kartu-profil {
-    width: 300px;
-    margin: 50px auto: /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
-    padding: 20px;
-    background-color: white;
-    border-radius; 15px; /* Membuat sudut menjadi melengkung */
-    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
+  width: 300px;
+  margin: 50px; auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  backround-color: white;
+  border-radius:15px; /* Membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0,.1); /* Efek bayangan */
+}
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil }
+   /* ... (kode dari slide sebelumnya) . . . */
+   teks-align: center; /* Menengah semua teks dalam kartu */
+}
